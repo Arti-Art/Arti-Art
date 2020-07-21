@@ -1,10 +1,10 @@
 ### Hi there, I'm Artyom! 👋
 
-I just started learning web development. 
-- 🌱 I’m currently learning PHP and MySQL
-Interested in photography, video editing and making music. 
-:fr: I'm fluent in French and Russian. 
-And I'm always happy to practice some Español.
+- I just started learning web development. 
+- 🌱 Currently learning PHP and MySQL
+- Interested in photography, video editing and making music. 
+- 💬 I'm fluent in :fr: French and :ru: Russian. 
+- And I'm always happy to practice some :es: Español.
 
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
