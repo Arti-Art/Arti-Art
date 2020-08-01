@@ -8,8 +8,7 @@
 
 ### Connect with me
 
-[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png" style="width: 35px; height: 35px;">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)  
-[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png" style="width: 35px; height: 35px;">](https://www.instagram.com/von_kouznetsoff/)
+[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png" style="max-width: 50%">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648) [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png" style="width: 35px; height: 35px;">](https://www.instagram.com/von_kouznetsoff/)
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Analyze https://github.com/8bithemant
