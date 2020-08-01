@@ -8,12 +8,10 @@
 
 ### Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)
-[<i class="ri-instagram-line"></i> Instagram](https://www.instagram.com/von_kouznetsoff/)
+[<img src="icons/linkedin.png"></img> LinkedIn](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)
+[Instagram](https://www.instagram.com/von_kouznetsoff/)
 
-### Tools & Languages
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img src="icons/linkedin.png"></img>
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Analyze https://github.com/8bithemant
@@ -26,4 +24,7 @@ MD emojis https://gist.github.com/rxaviers/7360908
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Tools & Languages
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 -->
