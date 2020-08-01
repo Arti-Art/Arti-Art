@@ -11,7 +11,7 @@
 [<img src="icons/linkedin.png"></img> LinkedIn](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)
 [Instagram](https://www.instagram.com/von_kouznetsoff/)
 
-<img src="icons/linkedin.png"></img>
+<img src="/icons/linkedin.png"></img>
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Analyze https://github.com/8bithemant
