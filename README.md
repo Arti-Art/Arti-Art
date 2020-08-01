@@ -4,7 +4,7 @@
 - Currently learning PHP and MySQL
 - My goals for 2020 : learn Docker, Laravel and Python
 - I'm interested in photography, video editing and music creation
-- I'm fluent in :fr: French and :ru: Russian, and always happy to practice some :es: Español
+- I'm fluent in _French_ and _Russian_, and always happy to practice some _Español_
 
 ### Connect with me
 
