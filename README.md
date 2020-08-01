@@ -6,8 +6,9 @@
 - I'm interested in photography, video editing and music creation
 - I'm fluent in _French_ and _Russian_, and always happy to practice some _Español_
 
-### Connect with me :
-[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)
+### Connect with me
+
+[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)  
 [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png">](https://www.instagram.com/von_kouznetsoff/)
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
