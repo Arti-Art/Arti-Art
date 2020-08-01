@@ -1,9 +1,15 @@
 ### Hi there, I'm Artyom! 👋
 
-- I just started learning web development
+- I just started learning web development at [BeCode.org](https://becode.org/)
 - Currently learning PHP and MySQL
+- My goals for 2020 : learn Docker, Laravel and Python
 - I'm interested in photography, video editing and music creation
 - I'm fluent in :fr: French and :ru: Russian, and always happy to practice some :es: Español
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/artyom-kouznetsov-12a82648)
+[Instagram](https://www.instagram.com/von_kouznetsoff/)
 
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
