@@ -6,7 +6,7 @@
 - I'm interested in photography, video editing and music creation
 - I'm fluent in _French_ and _Russian_, and always happy to practice some _Español_
 
-[Check out my personal Website](http://35.180.69.115)
+Check out my [personal Wordpress Website](http://35.180.69.115)
 
 ### Connect with me
 
