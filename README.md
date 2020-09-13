@@ -6,6 +6,8 @@
 - I'm interested in photography, video editing and music creation
 - I'm fluent in _French_ and _Russian_, and always happy to practice some _Español_
 
+[Check out my personal Website](http://35.180.69.115)
+
 ### Connect with me
 
 [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648) [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png">](https://www.instagram.com/von_kouznetsoff/)
