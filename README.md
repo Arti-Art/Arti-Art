@@ -10,7 +10,7 @@ Check out my [personal Wordpress Website](http://35.180.69.115) or my [Resume / 
 
 ### Connect with me
 
-[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png">](https://www.linkedin.com/in/artyom-kouznetsov-12a82648) [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png">](https://www.instagram.com/von_kouznetsoff/)
+[<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/linkedin.png">](https://www.linkedin.com/in/artyom-kouznetsov) [<img src="https://raw.githubusercontent.com/Arti-Art/Arti-Art/master/icons/instagram.png">](https://www.instagram.com/von_kouznetsoff/)
 <!--
 **Arti-Art/Arti-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Analyze https://github.com/8bithemant
