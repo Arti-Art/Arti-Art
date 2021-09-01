@@ -1,4 +1,4 @@
-### Hi, I'm Arti, Junior Web Developer @Lunivers
+### Hi, I'm Arti, Junior Web Developer
 
 - My goals for 2021 : mastering VueJs, Nuxt and Headless Wordpress
 
